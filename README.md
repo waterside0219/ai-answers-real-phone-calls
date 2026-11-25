@@ -117,12 +117,3 @@ export BRAIN_URL=http://127.0.0.1:8799/ ELEVENLABS_API_KEY=... MINIMAX_API_KEY=.
 ## 许可
 
 MIT。FakeContext 和替换 `mInitialApplication` 的做法来自 [scrcpy](https://github.com/Genymobile/scrcpy) 的 Workarounds（Apache-2.0），思路也见于 [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)。
-
-## 同一个家里的其他东西
-
-这些是同一个人和同一个 AI 一起做的，可以连着看：
-
-- [android-phone-as-ai-body](https://github.com/waterside0219/android-phone-as-ai-body)：给 AI 一部手机当身子，脸、眼睛、耳朵、嗓子
-- [ai-live2d-from-one-image](https://github.com/waterside0219/ai-live2d-from-one-image)：一张平面图做成会动的 Live2D，装进手机和桌面
-- [ai-handwritten-imessage](https://github.com/waterside0219/ai-handwritten-imessage)：AI 用自己的笔迹，在 iMessage 里一笔一笔写字
-- [ai-game-companion](https://github.com/waterside0219/ai-game-companion)：AI 陪你打游戏，带路、预警、搭话，和它该什么时候闭嘴
