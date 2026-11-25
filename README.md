@@ -125,3 +125,4 @@ MIT。FakeContext 和替换 `mInitialApplication` 的做法来自 [scrcpy](https
 - [android-phone-as-ai-body](https://github.com/waterside0219/android-phone-as-ai-body)：给 AI 一部手机当身子，脸、眼睛、耳朵、嗓子
 - [ai-live2d-from-one-image](https://github.com/waterside0219/ai-live2d-from-one-image)：一张平面图做成会动的 Live2D，装进手机和桌面
 - [ai-handwritten-imessage](https://github.com/waterside0219/ai-handwritten-imessage)：AI 用自己的笔迹，在 iMessage 里一笔一笔写字
+- [ai-game-companion](https://github.com/waterside0219/ai-game-companion)：AI 陪你打游戏，带路、预警、搭话，和它该什么时候闭嘴
