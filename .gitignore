@@ -1,0 +1,7 @@
+probe/out/
+probe/probe.jar
+probe/tone.pcm
+probe/tests/*.class
+bridge/turns/
+__pycache__/
+.DS_Store
